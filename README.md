@@ -13,9 +13,6 @@ I am Sundarraj R, an enthusiastic learner with a passion for software developmen
 - [ ] **Exception Handling**: Learn to handle errors and exceptions gracefully.
 - [ ] **Collections**: Explore Java's collection framework, working with arrays, lists, sets, and maps.
 - [ ] **File Handling**: Develop skills in reading and writing files in Java.
-- [ ] **Multithreading**: Dive into concurrent programming with Java.
-- [ ] **Java Standard Library**: Get acquainted with Java's built-in libraries and APIs.
-- [ ] **Projects**: Build practical Java projects to apply what I've learned.
 
 ## Progress
 
@@ -39,9 +36,6 @@ Here's a brief overview of the folder structure in this repository:
 - `04-exception-handling/`: Error handling and exceptions.
 - `05-collections/`: Working with Java collections.
 - `06-file-handling/`: Reading and writing files.
-- `07-multithreading/`: Concurrent programming.
-- `08-standard-library/`: Exploring Java's standard libraries.
-- `09-projects/`: Practical Java projects.
 
 ## How to Use This Repository
 
